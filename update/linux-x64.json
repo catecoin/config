@@ -1,4 +1,9 @@
 {
+  "webui": {
+    "version": "0.1.1",
+    "desp": "init.",
+    "updatePackage": ""
+  },
   "launcher": {
     "version": "0.1.0",
     "desp": "init.",
