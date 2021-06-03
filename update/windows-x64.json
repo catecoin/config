@@ -1,0 +1,12 @@
+{
+  "launcher": {
+    "version": "0.1.0",
+    "desp": "init.",
+    "updatePackage": ""
+  },
+  "core": {
+    "version": "1.10.3",
+    "desp": "init.",
+    "updatePackage": "https://github.com/catecoingroup/catecoin/releases/download/v1.10.3/catecoin-core-v1.10.3-windows-x64.zip"
+  }
+}
